@@ -1,1 +1,1 @@
-echo "#stimpacks-retake-exam#
+echo "#stimpacks-retake-exam"
